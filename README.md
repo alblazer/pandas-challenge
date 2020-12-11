@@ -1,2 +1,2 @@
 # pandas-challenge
-Tiem for HeroesofPymoli
+Time for HeroesofPymoli
